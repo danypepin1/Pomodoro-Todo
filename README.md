@@ -1,2 +1,2 @@
 # Pomodoro-Todo
-Pomodoro &amp; Todo react-native mobile application
+Pomodoro &amp; Todo react-native & Expo mobile application
